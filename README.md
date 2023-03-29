@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey ya 👋
+
+### Developer
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/tNC2rod1uTrdC/giphy.gif?cid=ecf05e47io5onghhuxjnaem4atp8b2k2mpui9wkcelt1zw9d&rid=giphy.gif" style="width:100%;height:0;padding-bottom:75%;position:relative;"/>
+</div>
 
 <!--
 **vandercijr/vandercijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
